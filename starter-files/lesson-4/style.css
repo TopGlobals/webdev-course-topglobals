@@ -1,0 +1,47 @@
+/* Aplica tipo de fuente, color de fondo, y color de fuente */
+body {
+  /* font-family */
+  /* background-color */
+  /* color */
+}
+
+/* Aplica color de fuente, tamaño de fuente y alineación centrada */
+h1 {
+  /* color */
+  /* font-size */
+  /* text-align */
+}
+
+/* Selector de clase: Aplica color de fuente, tamaño de fuente y alineación centrada */
+.subtitulo {
+  /* color */
+  /* font-size */
+  /* text-align */
+}
+
+/* Selector de clase: Aplica color de fondo, ancho máximo, centrado horizontal, borde, bordes redondeados y relleno interno */
+.tarjeta {
+  /* background-color */
+  /* max-width */
+  /* margin */
+  /* border */
+  /* border-radius */
+  /* padding */
+}
+
+/* Aplica color de fuente y tamaño de fuente */
+h2 {
+  /* color */
+  /* font-size */
+}
+
+/* Aplica tamaño de fuente */
+p {
+  /* font-size */
+}
+
+/* Selector de clase: Aplica color de fuente y grosor de fuente */
+.destacado {
+  /* color */
+  /* font-weight */
+}

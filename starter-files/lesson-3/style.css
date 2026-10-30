@@ -1,0 +1,42 @@
+/* Aplica un tipo de fuente, color de fondo, color de fuente, y margen */
+body {
+  /* font-family */
+  /* background-color */
+  /* color */
+  /* margin */
+}
+
+/* Aplica color de fuente, tamaño de fuente, y alinealo en el centro */
+h1 {
+  /* color */
+  /* font-size */
+  /* text-align */
+}
+
+/* Aplica color de fuente, tamaño de fuente, alinealo en el centro, y añade un margen inferior */
+.subtitulo {
+  /* color */
+  /* font-size */
+  /* text-align */
+  /* margin-bottom */
+}
+
+/* Aplica color de fondo, relleno, y bordes redondos */
+.caja-informativa {
+  /* background-color */
+  /* padding */
+  /* border-radius */
+}
+
+/* Aplica color de fuente, tamaño de fuente, y margen inferior */
+h2 {
+  /* color */
+  /* font-size */
+  /* margin-bottom */
+}
+
+/* Aplica altura de línea y tamaño de fuente */
+p {
+  /* line-height */
+  /* font-size */
+}

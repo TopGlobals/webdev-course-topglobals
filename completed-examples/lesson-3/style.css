@@ -2,35 +2,22 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f1f5f9;
   color: #334155;
-  margin: 25px;
 }
 
 h1 {
   color: #0f172a;
   font-size: 28px;
-  text-align: center;
 }
 
-.subtitulo {
-  color: #64748b;
-  font-size: 16px;
-  text-align: center;
-  margin-bottom: 25px;
+p {
+  font-size: 15px;
 }
 
-.caja-informativa {
+div {
   background-color: #ffffff;
-  padding: 20px;
-  border-radius: 8px;
 }
 
 h2 {
   color: #1e40af;
   font-size: 20px;
-  margin-bottom: 10px;
-}
-
-p {
-  line-height: 1.6;
-  font-size: 15px;
 }

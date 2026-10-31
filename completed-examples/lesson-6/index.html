@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lección 6: Recomendaciones y Errores Comunes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="contenedor-principal">
+    <header>
+      <h1>Recomendaciones y Errores Comunes</h1>
+      <p class="subtitulo">Aprende a reconocer, depurar y evitar los fallos más habituales en HTML y CSS.</p>
+    </header>
+    
+    <main>
+      <!-- Error 1: Cierre de etiquetas -->
+      <section class="tarjeta-guia">
+        <h2>1. Etiquetas no cerradas o mal anidadas</h2>
+        <div class="bloques-comparacion">
+          <div class="caja fallo">
+            <h3>Error Frecuente</h3>
+            <code>&lt;p&gt;Texto &lt;strong&gt;importante&lt;/p&gt;</code>
+            <p>El navegador intenta corregir la etiqueta faltante, lo cual desconfigura el diseño.</p>
+          </div>
+          <div class="caja exito">
+            <h3>Buena Práctica</h3>
+            <code>&lt;p&gt;Texto &lt;strong&gt;importante&lt;/strong&gt;&lt;/p&gt;</code>
+            <p>Cierra siempre las etiquetas en el orden inverso en que las abriste.</p>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Error 2: Atributo alt en imágenes -->
+      <section class="tarjeta-guia">
+        <h2>2. Omitir el atributo <code>alt</code> en imágenes</h2>
+        <div class="bloques-comparacion">
+          <div class="caja fallo">
+            <h3>Error Frecuente</h3>
+            <code>&lt;img src="foto.jpg"&gt;</code>
+            <p>Afecta la accesibilidad web: los lectores de pantalla no pueden describir la imagen.</p>
+          </div>
+          <div class="caja exito">
+            <h3>Buena Práctica</h3>
+            <code>&lt;img src="foto.jpg" alt="Foto de perfil de estudiante"&gt;</code>
+            <p>Incluye siempre una descripción textual breve y concisa.</p>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Error 3: Punto y coma en CSS -->
+      <section class="tarjeta-guia">
+        <h2>3. Olvidar el punto y coma (;) en declaraciones CSS</h2>
+        <div class="bloques-comparacion">
+          <div class="caja fallo">
+            <h3>Error Frecuente</h3>
+            <code>color: blue<br>font-size: 16px;</code>
+            <p>Sin el punto y coma, el navegador descarta por completo la siguiente propiedad.</p>
+          </div>
+          <div class="caja exito">
+            <h3>Buena Práctica</h3>
+            <code>color: blue;<br>font-size: 16px;</code>
+            <p>Finaliza siempre cada par propiedad-valor con un punto y coma (;).</p>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Lista de verificación y recursos recomendados -->
+      <section class="tarjeta-recursos">
+        <h2>Lista de Verificación y Próximos Pasos</h2>
+        <ul>
+          <li>Valida siempre tu código con el <a href="https://validator.w3.org" target="_blank" rel="noopener noreferrer">Validador de la W3C</a>.</li>
+          <li>Consulta documentación oficial y actualizada en <a href="https://developer.mozilla.org/es/" target="_blank" rel="noopener noreferrer">MDN Web Docs</a>.</li>
+          <li>Utiliza la tecla F12 del navegador para inspeccionar elementos y ver estilos aplicados en vivo.</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

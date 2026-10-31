@@ -1,0 +1,91 @@
+/* Estilos globales de la página */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f1f5f9;
+  color: #334155;
+  margin: 0;
+  padding: 30px 15px;
+}
+
+/* Tarjeta principal: aplica ancho máximo, centrado horizontal, borde, esquinas redondeadas y relleno */
+.tarjeta-perfil {
+  max-width: 450px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 25px;
+  border: 1px solid #cbd5e1;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Foto de perfil: dimensiones fijas y esquinas circulares al 50% */
+.avatar {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #0284c7;
+}
+
+/* Títulos y textos del perfil */
+.nombre {
+  color: #0f172a;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+.profesion {
+  color: #0284c7;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.seccion-bio,
+.seccion-habilidades {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #1e40af;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.lista-habilidades {
+  font-size: 15px;
+  line-height: 1.8;
+  padding-left: 20px;
+}
+
+.pie-tarjeta {
+  margin-top: 25px;
+}
+
+/* Botón interactivo de enlace */
+.boton-enlace {
+  display: inline-block;
+  background-color: #0284c7;
+  color: #ffffff;
+  padding: 10px 22px;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.boton-enlace:hover {
+  background-color: #0369a1;
+}

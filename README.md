@@ -15,10 +15,11 @@ This 1-hour course introduces high school students to creating simple websites w
 - `/scripts`: Auxiliary scripts or tools
 
 ## Lesson Sequence
-- **Lesson 1**: What is Web Development? 
-- **Lesson 2**: Introduction to HTML
-- **Lesson 3**: Adding More HTML Elements
-- **Lesson 4**: Introduction to CSS
+- **Introduction**: What is Web Development?
+- **Lesson 1**: Introduction to HTML 
+- **Lesson 2**: Adding More HTML Elements
+- **Lesson 3**: Introduction to CSS
+- **Lesson 4**: Styling with CSS
 - **Lesson 5**: Creating a Simple Webpage
 - **Lesson 6**: Tips and Next Steps
 
@@ -27,7 +28,7 @@ This 1-hour course introduces high school students to creating simple websites w
 - **Course**: 1ASI0730 Web Applications
 - **Team Name**: TopGlobals
 - **Team Leader**: Arizabal Condori, Jean Niels
-- **Members**: 
-    - Homola, Tomas 
-    -  Padilla Merino, Mauricio Jared
+- **Members**:
+  - Homola, Tomas
+  - Padilla Merino, Mauricio Jared
   - Reyes Munoz, Joaquin Leonardo

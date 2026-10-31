@@ -1,0 +1,45 @@
+/* Estilos globales de la página */
+body {
+  /* font-family */
+  /* background-color */
+  /* color */
+}
+
+/* Tarjeta principal: aplica ancho máximo, centrado horizontal, borde, esquinas redondeadas y relleno */
+.tarjeta-perfil {
+  /* max-width */
+  /* margin */
+  /* background-color */
+  /* padding */
+  /* border */
+  /* border-radius */
+}
+
+/* Foto de perfil: dimensiones fijas y esquinas circulares al 50% */
+.avatar {
+  /* width */
+  /* height */
+  /* border-radius: 50%; */
+}
+
+/* Títulos y textos del perfil */
+.nombre {
+  /* color */
+  /* font-size */
+  /* text-align */
+}
+
+.meta {
+  /* color */
+  /* text-align */
+  /* font-weight */
+}
+
+/* Botón interactivo de enlace */
+.boton-enlace {
+  /* background-color */
+  /* color */
+  /* padding */
+  /* border-radius */
+  /* text-align */
+}

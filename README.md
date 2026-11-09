@@ -30,5 +30,4 @@ This 1-hour course introduces high school students to creating simple websites w
 - **Team Leader**: Arizabal Condori, Jean Niels
 - **Members**:
   - Homola, Tomas
-  - Padilla Merino, Mauricio Jared
   - Reyes Munoz, Joaquin Leonardo

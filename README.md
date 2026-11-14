@@ -14,13 +14,13 @@ This 1-hour course introduces high school students to creating simple websites w
 - `/completed-examples`: Finished solution code for lessons
 
 ## Lesson Sequence
-- **Introduction**: What is Web Development?
-- **Lesson 1**: Introduction to HTML 
-- **Lesson 2**: Adding More HTML Elements
-- **Lesson 3**: Introduction to CSS
-- **Lesson 4**: Styling with CSS
-- **Lesson 5**: Creating a Simple Webpage
-- **Lesson 6**: Tips and Next Steps
+- **Introduction**: [What is Web Development?](https://youtu.be/Vi6A7Ex69dA)
+- **Lesson 1**: [Introduction to HTML](https://youtu.be/zqJgPkv6b0M)
+- **Lesson 2**: [Adding More HTML Elements](https://youtu.be/Uspl5oIFecU)
+- **Lesson 3**: [Introduction to CSS](https://youtu.be/-VHcbmL4GV0)
+- **Lesson 4**: [Styling with CSS](https://youtu.be/vOqNAIIaifs)
+- **Lesson 5**: [Creating a Simple Webpage](https://youtu.be/w4KJyowMPXA)
+- **Lesson 6**: [Tips and Next Steps](https://youtu.be/AP0-LzDEtSY)
 
 ## Resources
 - **Coding Website**: [CodePen](https://codepen.io/)

@@ -12,7 +12,6 @@ This 1-hour course introduces high school students to creating simple websites w
 ## Project Structure
 - `/starter-files`: Code templates for student practice
 - `/completed-examples`: Finished solution code for lessons
-- `/scripts`: Auxiliary scripts or tools
 
 ## Lesson Sequence
 - **Introduction**: What is Web Development?
@@ -22,6 +21,11 @@ This 1-hour course introduces high school students to creating simple websites w
 - **Lesson 4**: Styling with CSS
 - **Lesson 5**: Creating a Simple Webpage
 - **Lesson 6**: Tips and Next Steps
+
+## Resources
+- **Coding Website**: [CodePen](https://codepen.io/)
+- **W3C Validator**: [https://validator.w3.org/](https://validator.w3.org/)
+- **MDN Web Docs**: [https://developer.mozilla.org/es/](https://developer.mozilla.org/es/)
 
 ---
 ## Team Information
